@@ -1,0 +1,132 @@
+h1 {
+  color: #c9c9c9;
+  text-align: center;
+  font-family: Helvetica;
+  font-weight: 100;
+  line-height: 90%;
+  outline: none !important;
+  user-select: none;
+}
+
+h4 {
+  color: #c9c9c9;
+  text-align: center;
+  font-family: Helvetica;
+  font-weight: 100;
+  line-height: 20%;
+}
+
+body {
+  background: #1e1e1e;
+  color: #898989;
+  font-weight: 200;
+  height: 100vh;
+  font-family: Arial;
+  text-align: center;
+}
+
+#text {
+  text-align: center;
+  color: tomato;
+  font-family: Helvetica;
+  font-size: 20px;
+  outline: none !important;
+}
+
+p {
+  color: tomato;
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 8px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 3px;
+  outline: none !important;
+  user-select: none;
+  margin: 2px;
+  margin-bottom: 5px;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+button:hover {
+  background-color: #3e8e42;
+  outline: none !important;
+}
+
+button:active {
+  background-color: #377a3a;
+  position: relative;
+  top: 2px;
+  outline: none !important;
+}
+
+.input {
+  background: #393838;
+  color: #c9c9c9;
+  border: none;
+  line-height: 150%;
+  font-size: 18px;
+  text-align: center;
+  width: 135px;
+  margin: 1px;
+  padding: 1px;
+  display: inline-box;
+  margin-bottom: 10px;
+}
+
+hr {
+  width: 470px;
+  height: 0px;
+  outline: none;
+  margin-top: 2px;
+  margin-bottom: 4px;
+  size: 0px;
+  border: 0.5px solid #353535;
+}
+
+table {
+  border: solid #1e1e1e;
+  border-spacing: 0px;
+  margin: 4px;
+  border-width: 3px;
+  border-collapse: collapse;
+}
+
+td,
+th {
+  border: 1px solid #2b2b2b;
+  padding: 5px;
+  border-collapse: collapse;
+}
+
+th {
+  text-align: center;
+  color: #c2c2c2;
+  font-size: 18px;
+  user-select: none;
+}
+td {
+  color: #919191;
+  font-weight: bolder;
+  font-size: 17px;
+  user-select: none;
+}
+
+#godzina {
+  text-align: center;
+  color: #c0c0c0;
+}
+
+#podpis {
+  color:#7e7e7e;
+  user-select: none;
+  font-weight: bolder;
+}
